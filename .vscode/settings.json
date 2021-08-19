@@ -15,5 +15,8 @@
         "titleBar.inactiveBackground": "#b53e5999",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#b53e59"
+    "peacock.color": "#b53e59",
+    "cSpell.words": [
+        "Staatliches"
+    ]
 }
